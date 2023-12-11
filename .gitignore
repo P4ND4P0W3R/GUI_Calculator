@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore build output
+out/
+
+# Ignore font cache files
+font/.DS_Store
