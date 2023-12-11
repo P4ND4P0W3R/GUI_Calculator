@@ -10,3 +10,45 @@ out/
 
 # Ignore font cache files
 font/.DS_Store
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# IntelliJ project files
+.idea/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# NetBeans project files
+nb-configuration.xml
+
+# Build output
+bin/
+target/
+
+# Dependency directories
+lib/
+
+# macOS specific files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+
+# Gradle
+.gradle/
+
+# Maven
+target/
