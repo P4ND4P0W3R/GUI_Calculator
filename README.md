@@ -1,6 +1,6 @@
 # GUI_Calcultor
 
-## <ins>*While using the calculator, you might notice, the buttons</ins> `0`, `+` <ins>and</ins> `=` <ins>being pressed by themselves, it is done to assure the proper working of the calculator (it is hard coded into the</ins> `CalculatorGUI.java` <ins>file*</ins>
+## <ins>*While using the calculator, you might notice, the buttons</ins> `0`, `+` <ins>and</ins> `=` <ins>being pressed by themselves, it is done to assure the proper working of the calculator (it is hard coded into the</ins> `CalculatorGUI.java` <ins>file)*</ins>
 
 To run a Java program in the terminal, you need to follow these steps:
 
